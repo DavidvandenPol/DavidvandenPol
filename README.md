@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm David van den Pol, a Front-end Developer at [Mooore Digital](https://www.mooore.nl/)
+
+I make things on the web. 
+
+- [:necktie: LinkedIn](https://www.linkedin.com/in/david-van-den-pol-61978a19b/) - *Let's connect!*
+- [:computer: My website](https://kris-kuiper.nl/) - *Read more about me on my personal website.*
 
 <!--
 **DavidvandenPol/DavidvandenPol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
