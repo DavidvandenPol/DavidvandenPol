@@ -1,4 +1,4 @@
-### Hi there 👋,  I'm David van den Pol, a Front-end Developer at [Mooore Digital](https://www.mooore.nl/)
+### Hi there 👋,  I'm David van den Pol, a Front-end Developer student
 
 I make things on the web. 
 
